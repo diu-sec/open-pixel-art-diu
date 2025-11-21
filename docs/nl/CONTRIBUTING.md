@@ -137,11 +137,11 @@ Push je aanpassingen naar GitHub door het volgende uit te voeren:
 git push origin add-my-new-pixel
 ```
 
-Ga daarna naar GitHub en volg [deze instructies](https://help.github.com/en/articles/creating-a-pull-request-from-a-fork) (engels) om een pull request voor jouw fork tegen de `master` branch van github.com/twilio-labs/open-pixel-art te maken.
+Ga daarna naar GitHub en volg [deze instructies](https://help.github.com/en/articles/creating-a-pull-request-from-a-fork) (engels) om een pull request voor jouw fork tegen de `master` branch van github.com/diu-sec/open-pixel-art-diu te maken.
 
 ## Andere aanpassingen bijdragen
 
-Leuk dat je wilt iets anders dan een pixel wilt bijdragen aan dit project. Controleer voordat je begint aan de code of er al een [GitHub issue](https://github.com/twilio-labs/open-pixel-art/issues) bestaat voor de aanpassingen. Zo nee, maak deze alsjeblieft eerst aan. Laat als er al wel eentje bestaat een bericht daar achter om andere te laten weten dat je met de issue aan de slag gaat.
+Leuk dat je wilt iets anders dan een pixel wilt bijdragen aan dit project. Controleer voordat je begint aan de code of er al een [GitHub issue](https://github.com/diu-sec/open-pixel-art-diu/issues) bestaat voor de aanpassingen. Zo nee, maak deze alsjeblieft eerst aan. Laat als er al wel eentje bestaat een bericht daar achter om andere te laten weten dat je met de issue aan de slag gaat.
 
 Volg nadat je de code hebt aangepast alsjeblieft de hierboven genoemde stappen.
 

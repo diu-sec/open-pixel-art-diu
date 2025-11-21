@@ -39,7 +39,7 @@ async function run() {
   if (!twilioLabsRemoteExists) {
     spinner.text = 'Configuring "twilio-labs" remote';
     await exec(
-      'git remote add twilio-labs https://github.com/twilio-labs/open-pixel-art.git',
+      'git remote add twilio-labs https://github.com/diu-sec/open-pixel-art-diu.git',
       opts
     );
   }

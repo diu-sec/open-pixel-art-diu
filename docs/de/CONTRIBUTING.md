@@ -138,11 +138,11 @@ Wenn du Probleme beim Übertragen deiner Änderungen auf GitHub hast, ist dein l
 git push origin add-my-new-pixel
 ```
 
-Gehe anschließend zu GitHub und [folge diesen Anweisungen](https://help.github.com/de/articles/creating-a-pull-request-from-a-fork), um einen Pull-Request von deinem Fork gegen den `master`-Branch von github.com/twilio-labs/open-pixel-art zu erstellen.
+Gehe anschließend zu GitHub und [folge diesen Anweisungen](https://help.github.com/de/articles/creating-a-pull-request-from-a-fork), um einen Pull-Request von deinem Fork gegen den `master`-Branch von github.com/diu-sec/open-pixel-art-diu zu erstellen.
 
 ## Andere Änderungen beisteuern
 
-Es ist großartig, dass du mehr als ein Pixel zu diesem Projekt beitragen möchtest. Bevor du mit der Arbeit am Code beginnst, überprüfe, ob bereits ein [GitHub-Problem](https://github.com/twilio-labs/open-pixel-art/issues) für diese Änderungen vorliegt. Wenn nicht, öffne bitte zuerst eines. Wenn es bereits eines gibt, stelle sicher, dass du einen Kommentar erstellst, um die Leute darüber zu informieren, dass du an einer Lösung für dieses Problem arbeitest.
+Es ist großartig, dass du mehr als ein Pixel zu diesem Projekt beitragen möchtest. Bevor du mit der Arbeit am Code beginnst, überprüfe, ob bereits ein [GitHub-Problem](https://github.com/diu-sec/open-pixel-art-diu/issues) für diese Änderungen vorliegt. Wenn nicht, öffne bitte zuerst eines. Wenn es bereits eines gibt, stelle sicher, dass du einen Kommentar erstellst, um die Leute darüber zu informieren, dass du an einer Lösung für dieses Problem arbeitest.
 
 Befolge nach dem Ändern des Codes die oben beschriebenen Schritte.
 

@@ -145,11 +145,11 @@ git commit -m "feat(pixels): add my new pixel (x, y)"
 git push origin add-my-new-pixel
 ```
 
-之后，前往 GitHub 并按照[这个指示](https://help.github.com/en/articles/creating-a-pull-request-from-a-fork) 来呈交（pull request）你克隆对比 github.com/twilio-labs/open-pixel-art 的`master`分支的代码。
+之后，前往 GitHub 并按照[这个指示](https://help.github.com/en/articles/creating-a-pull-request-from-a-fork) 来呈交（pull request）你克隆对比 github.com/diu-sec/open-pixel-art-diu 的`master`分支的代码。
 
 ## 参与项目开发
 
-可喜可乐！你想要为此项目贡献除了像素点以外的代码。在开始之前，请先确认[GitHub issue](https://github.com/twilio-labs/open-pixel-art/issues)是否有相关 Issue。如果没有的话，请先创建一个；如果有，记得留言让大家知道你在处理相关 Issue。
+可喜可乐！你想要为此项目贡献除了像素点以外的代码。在开始之前，请先确认[GitHub issue](https://github.com/diu-sec/open-pixel-art-diu/issues)是否有相关 Issue。如果没有的话，请先创建一个；如果有，记得留言让大家知道你在处理相关 Issue。
 
 准备提交时，请遵守上述步骤。
 

@@ -149,7 +149,7 @@ Push your changes to GitHub by running:
 git push origin add-my-new-pixel
 ```
 
-Afterwards head to GitHub and [follow these instructions](https://help.github.com/en/articles/creating-a-pull-request-from-a-fork) to create a pull request from your fork against the `master` branch of github.com/twilio-labs/open-pixel-art.
+Afterwards head to GitHub and [follow these instructions](https://help.github.com/en/articles/creating-a-pull-request-from-a-fork) to create a pull request from your fork against the `master` branch of github.com/diu-sec/open-pixel-art-diu.
 
 ### Problems When Creating a Pull Request
 
@@ -167,7 +167,7 @@ npm run sync-fork
 
 ## Contributing other Changes
 
-It's great that you want to contribute more than a pixel to this project. Before you start working on the code, make sure to check if there is already a [GitHub issue](https://github.com/twilio-labs/open-pixel-art/issues) for those changes. If there isn't, please open one first. If there is already one, make sure to create a comment to let people know that you are working on a fix for this.
+It's great that you want to contribute more than a pixel to this project. Before you start working on the code, make sure to check if there is already a [GitHub issue](https://github.com/diu-sec/open-pixel-art-diu/issues) for those changes. If there isn't, please open one first. If there is already one, make sure to create a comment to let people know that you are working on a fix for this.
 
 After making the code changes, please follow the steps outlined above.
 

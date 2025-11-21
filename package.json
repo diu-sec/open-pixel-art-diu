@@ -18,15 +18,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/twilio-labs/open-pixel-art.git"
+    "url": "git+https://github.com/diu-sec/open-pixel-art-diu.git"
   },
   "keywords": [],
   "author": "Twilio Labs <open-source@twilio.com> (https://twilio.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/twilio-labs/open-pixel-art/issues"
+    "url": "https://github.com/diu-sec/open-pixel-art-diu/issues"
   },
-  "homepage": "https://github.com/twilio-labs/open-pixel-art#readme",
+  "homepage": "https://github.com/diu-sec/open-pixel-art-diu#readme",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.0",
     "@types/jest": "^24.0.18",

@@ -23,13 +23,13 @@ código HEX válido. Por exemplo: `#F22F46` a cor da marca de [Twilio](https://w
 Todo o projeto é automatizado e é amplamente mantido por um conjunto de bots que
 verificará qualquer contribuição de pixel. No entanto, se você quiser saber mais
 sobre o projeto ou enviar outras contribuições ao projeto que não sejam um pixel,
-sinta-se à vontade para criar um [problema no GitHub](https://github.com/twilio-labs/open-pixel-art/issues)
-dentro do [Open Pixel Art project](https://github.com/twilio-labs/open-pixel-art).
+sinta-se à vontade para criar um [problema no GitHub](https://github.com/diu-sec/open-pixel-art-diu/issues)
+dentro do [Open Pixel Art project](https://github.com/diu-sec/open-pixel-art-diu).
 
 ## Contribuindo
 
 Para contribuir com um pixel na tela, você deverá criar uma [pull request](https://opensource.guide/how-to-contribute/#opening-a-pull-request)
-para o [Open Pixel Art project on GitHub](https://github.com/twilio-labs/open-pixel-art).
+para o [Open Pixel Art project on GitHub](https://github.com/diu-sec/open-pixel-art-diu).
 
 Se você já conhece o git e como criar uma solicitação pull no GitHub, pode seguir
 em frente e conferir o [guia de contribuição](CONTRIBUTING.md).
@@ -68,20 +68,20 @@ Obrigado vai a essas pessoas maravilhosas ([emoji key](https://allcontributors.o
 <!-- prettier-ignore -->
 <table>
   <tr>
-    <td align="center"><a href="https://dkundel.com"><img src="https://avatars3.githubusercontent.com/u/1505101?v=4" width="80px;" alt="Dominik Kundel"/><br /><sub><b>Dominik Kundel</b></sub></a><br /><a href="https://github.com/twilio-labs/open-pixel-art/commits?author=dkundel" title="Code">💻</a> <a href="#ideas-dkundel" title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="https://aimhigherwebdesign.com.au"><img src="https://avatars2.githubusercontent.com/u/15953185?v=4" width="80px;" alt="Amy Kapernick"/><br /><sub><b>Amy Kapernick</b></sub></a><br /><a href="https://github.com/twilio-labs/open-pixel-art/commits?author=amykapernick" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/kwhinnery"><img src="https://avatars3.githubusercontent.com/u/29193?v=4" width="80px;" alt="Kevin Whinnery"/><br /><sub><b>Kevin Whinnery</b></sub></a><br /><a href="https://github.com/twilio-labs/open-pixel-art/commits?author=kwhinnery" title="Code">💻</a></td>
-    <td align="center"><a href="http://rickyrobinett.com"><img src="https://avatars3.githubusercontent.com/u/838096?v=4" width="80px;" alt="Ricky Robinett"/><br /><sub><b>Ricky Robinett</b></sub></a><br /><a href="https://github.com/twilio-labs/open-pixel-art/commits?author=rickyrobinett" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/andrescalco"><img src="https://avatars1.githubusercontent.com/u/10577705?v=4" width="80px;" alt="André Felipe Scalco"/><br /><sub><b>André Felipe Scalco</b></sub></a><br /><a href="https://github.com/twilio-labs/open-pixel-art/commits?author=andrescalco" title="Code">💻</a></td>
-    <td align="center"><a href="https://gustiaux.com"><img src="https://avatars0.githubusercontent.com/u/26365722?v=4" width="80px;" alt="Teddy Gustiaux"/><br /><sub><b>Teddy Gustiaux</b></sub></a><br /><a href="https://github.com/twilio-labs/open-pixel-art/commits?author=teddy-gustiaux" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/AidanJSmith"><img src="https://avatars3.githubusercontent.com/u/26717362?v=4" width="80px;" alt="Aidan Smith"/><br /><sub><b>Aidan Smith</b></sub></a><br /><a href="https://github.com/twilio-labs/open-pixel-art/commits?author=AidanJSmith" title="Code">💻</a></td>
+    <td align="center"><a href="https://dkundel.com"><img src="https://avatars3.githubusercontent.com/u/1505101?v=4" width="80px;" alt="Dominik Kundel"/><br /><sub><b>Dominik Kundel</b></sub></a><br /><a href="https://github.com/diu-sec/open-pixel-art-diu/commits?author=dkundel" title="Code">💻</a> <a href="#ideas-dkundel" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://aimhigherwebdesign.com.au"><img src="https://avatars2.githubusercontent.com/u/15953185?v=4" width="80px;" alt="Amy Kapernick"/><br /><sub><b>Amy Kapernick</b></sub></a><br /><a href="https://github.com/diu-sec/open-pixel-art-diu/commits?author=amykapernick" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/kwhinnery"><img src="https://avatars3.githubusercontent.com/u/29193?v=4" width="80px;" alt="Kevin Whinnery"/><br /><sub><b>Kevin Whinnery</b></sub></a><br /><a href="https://github.com/diu-sec/open-pixel-art-diu/commits?author=kwhinnery" title="Code">💻</a></td>
+    <td align="center"><a href="http://rickyrobinett.com"><img src="https://avatars3.githubusercontent.com/u/838096?v=4" width="80px;" alt="Ricky Robinett"/><br /><sub><b>Ricky Robinett</b></sub></a><br /><a href="https://github.com/diu-sec/open-pixel-art-diu/commits?author=rickyrobinett" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/andrescalco"><img src="https://avatars1.githubusercontent.com/u/10577705?v=4" width="80px;" alt="André Felipe Scalco"/><br /><sub><b>André Felipe Scalco</b></sub></a><br /><a href="https://github.com/diu-sec/open-pixel-art-diu/commits?author=andrescalco" title="Code">💻</a></td>
+    <td align="center"><a href="https://gustiaux.com"><img src="https://avatars0.githubusercontent.com/u/26365722?v=4" width="80px;" alt="Teddy Gustiaux"/><br /><sub><b>Teddy Gustiaux</b></sub></a><br /><a href="https://github.com/diu-sec/open-pixel-art-diu/commits?author=teddy-gustiaux" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/AidanJSmith"><img src="https://avatars3.githubusercontent.com/u/26717362?v=4" width="80px;" alt="Aidan Smith"/><br /><sub><b>Aidan Smith</b></sub></a><br /><a href="https://github.com/diu-sec/open-pixel-art-diu/commits?author=AidanJSmith" title="Code">💻</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/TheHandsomeCoder"><img src="https://avatars0.githubusercontent.com/u/1569604?v=4" width="80px;" alt="Scott O'Malley"/><br /><sub><b>Scott O'Malley</b></sub></a><br /><a href="https://github.com/twilio-labs/open-pixel-art/commits?author=TheHandsomeCoder" title="Code">💻</a></td>
-    <td align="center"><a href="http://www.toddmoy.com"><img src="https://avatars2.githubusercontent.com/u/22126?v=4" width="80px;" alt="Todd Moy"/><br /><sub><b>Todd Moy</b></sub></a><br /><a href="https://github.com/twilio-labs/open-pixel-art/commits?author=toddmoy" title="Code">💻</a></td>
-    <td align="center"><a href="http://www.samueldurkin.com"><img src="https://avatars3.githubusercontent.com/u/6232253?v=4" width="80px;" alt="Samuel Durkin"/><br /><sub><b>Samuel Durkin</b></sub></a><br /><a href="https://github.com/twilio-labs/open-pixel-art/commits?author=FailedSitcom" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/nokenwa"><img src="https://avatars2.githubusercontent.com/u/23080261?v=4" width="80px;" alt="ChatterboxCoder"/><br /><sub><b>ChatterboxCoder</b></sub></a><br /><a href="https://github.com/twilio-labs/open-pixel-art/commits?author=nokenwa" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/simeydk"><img src="https://avatars0.githubusercontent.com/u/13088589?v=4" width="80px;" alt="Simey de Klerk"/><br /><sub><b>Simey de Klerk</b></sub></a><br /><a href="https://github.com/twilio-labs/open-pixel-art/commits?author=simeydk" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/TheHandsomeCoder"><img src="https://avatars0.githubusercontent.com/u/1569604?v=4" width="80px;" alt="Scott O'Malley"/><br /><sub><b>Scott O'Malley</b></sub></a><br /><a href="https://github.com/diu-sec/open-pixel-art-diu/commits?author=TheHandsomeCoder" title="Code">💻</a></td>
+    <td align="center"><a href="http://www.toddmoy.com"><img src="https://avatars2.githubusercontent.com/u/22126?v=4" width="80px;" alt="Todd Moy"/><br /><sub><b>Todd Moy</b></sub></a><br /><a href="https://github.com/diu-sec/open-pixel-art-diu/commits?author=toddmoy" title="Code">💻</a></td>
+    <td align="center"><a href="http://www.samueldurkin.com"><img src="https://avatars3.githubusercontent.com/u/6232253?v=4" width="80px;" alt="Samuel Durkin"/><br /><sub><b>Samuel Durkin</b></sub></a><br /><a href="https://github.com/diu-sec/open-pixel-art-diu/commits?author=FailedSitcom" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/nokenwa"><img src="https://avatars2.githubusercontent.com/u/23080261?v=4" width="80px;" alt="ChatterboxCoder"/><br /><sub><b>ChatterboxCoder</b></sub></a><br /><a href="https://github.com/diu-sec/open-pixel-art-diu/commits?author=nokenwa" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/simeydk"><img src="https://avatars0.githubusercontent.com/u/13088589?v=4" width="80px;" alt="Simey de Klerk"/><br /><sub><b>Simey de Klerk</b></sub></a><br /><a href="https://github.com/diu-sec/open-pixel-art-diu/commits?author=simeydk" title="Code">💻</a></td>
   </tr>
 </table>
 
