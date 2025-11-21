@@ -1,4 +1,4 @@
-# Contributing to Open Pixel Art
+# Contributing to Open Pixel Art DIU
 
 ¿Español? Puedes encontrar nuestra guía de contribuciones traducida en [este enlace](docs/es/CONTRIBUTING.md).
 
@@ -29,19 +29,19 @@ Enjoy your quest!
 2. Clone the project:
 
 ```bash
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/open-pixel-art.git
+git clone https://github.com/<YOUR_GITHUB_USERNAME>/open-pixel-art-diu.git
 ```
 
 If you've set up this device with SSH, you can do this instead:
 
 ```bash
-git clone git@github.com:<YOUR_GITHUB_USERNAME>/open-pixel-art.git
+git clone git@github.com:<YOUR_GITHUB_USERNAME>/open-pixel-art-diu.git
 ```
 
 3. Install the dependencies for local development
 
 ```bash
-cd open-pixel-art
+cd open-pixel-art-diu
 npm install
 ```
 
@@ -51,7 +51,7 @@ npm install
 npm start
 ```
 
-5. Open your browser at http://localhost:8080. You should see the same content as on https://open-pixel-art.com just with a grid on the canvas that helps you better place your pixel.
+5. Open your browser at http://localhost:8080. You should see the same content as on https://diusec.github.io/open-pixel-art-diu just with a grid on the canvas that helps you better place your pixel.
 
 ---
 
@@ -60,16 +60,16 @@ There is also an option for setting up the project via Docker. To get started wi
 1. Build the Docker image
 
 ```bash
- docker build -t open-pixel-art .
+ docker build -t open-pixel-art-diu .
 ```
 
 2. Start the Docker image
 
 ```bash
-docker run -d -p 8080:8080 -it open-pixel-art
+docker run -d -p 8080:8080 -it open-pixel-art-diu
 ```
 
-If the docker image fails to build there's probably an error in your code and the tests fail to pass. If everything is correct you can easily connect by visiting the following url http://localhost:8080. You should see the same content as on https://open-pixel-art.com just with a grid on the canvas that helps you better place your pixel.
+If the docker image fails to build there's probably an error in your code and the tests fail to pass. If everything is correct you can easily connect by visiting the following url http://localhost:8080. You should see the same content as on https://diusec.github.io/open-pixel-art-diu just with a grid on the canvas that helps you better place your pixel.
 
 You can also verify if it's running by doing `docker ps --all` You will see an image called `open-pixel-art` and where you can access it as well.
 
@@ -77,7 +77,7 @@ Example:
 
 ```bash
 CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS                         PORTS                     NAMES
-c861ba4389fe        open-pixel-art      "docker-entrypoint.s…"   7 minutes ago       Up 7 minutes                   0.0.0.0:8080->8080/tcp    sleepy_lamarr
+c861ba4389fe        open-pixel-art-diu      "docker-entrypoint.s…"   7 minutes ago       Up 7 minutes                   0.0.0.0:8080->8080/tcp    sleepy_lamarr
 ```
 
 ## Contributing a Pixel
@@ -193,7 +193,7 @@ These kinds of documentation contributions are welcome and appreciated:
 ## Project Structure
 
 ```
-open-pixel-art
+open-pixel-art-diu
 ├── .all-contributorsrc
 ├── .eleventy.js
 ├── .eleventyignore
