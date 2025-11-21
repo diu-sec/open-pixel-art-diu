@@ -75,9 +75,9 @@ async function evaluatePixelChanges(jsonPatch) {
   const beforePixels = convertJsonToPixelSet(jsonPatch.before);
   const afterPixels = convertJsonToPixelSet(jsonPatch.after);
 
-  const areMultipleNewPixels = afterPixels.size - beforePixels.size > 1;
-  if (areMultipleNewPixels) {
-    fail(`You can not add more than one pixel.`);
+  const areTooManyNewPixels = afterPixels.size - beforePixels.size > 2;
+  if (areTooManyNewPixels) {
+    fail(`You can not add more than two pixels.`);
     return false;
   }
 
@@ -108,9 +108,9 @@ async function evaluatePixelChanges(jsonPatch) {
     pixel => pixel.username.toLowerCase() === gitHubUsername.toLowerCase()
   );
 
-  if (pixelsWithGitHubUsername.length > 1) {
+  if (pixelsWithGitHubUsername.length > 2) {
     fail(stripIndents`
-    You cannot create more than one pixel per GitHub username.
+    You cannot create more than two pixels per GitHub username.
 
     These are the pixels at the following locations for the GitHub username "${gitHubUsername}" in the pixels.json file:
     ${pixelsWithGitHubUsername
