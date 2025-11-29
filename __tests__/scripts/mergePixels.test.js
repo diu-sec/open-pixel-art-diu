@@ -6,8 +6,13 @@ const {
   getSortedPixelsFromFile,
   findNewPixel,
   getNextCoordinate,
-  getAlternativePixel,
-  isPixelTaken,
+  getAlternativePixel,       /**
+ * @param {{x:number,y:number}} pixel
+ * @returns {{x:number,y:number}}
+ */
+  function getNextCoordinate(pixel) { ... }
+
+isPixelTaken,
   run
 } = require('../../scripts/mergePixels');
 
@@ -380,7 +385,7 @@ describe('isPixelTaken', () => {
 describe('run', () => {
   let consoleWarnBackup = console.warn;
   beforeEach(() => {
-    console.warn = () => {};
+    console.warn = () => { };
     mockFs({
       '/same-pixel-conflict/old/_data/pixels.json': stripIndent`
         {
